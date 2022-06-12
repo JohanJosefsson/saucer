@@ -1,0 +1,102 @@
+#include "resource.h"
+
+
+IDI_ICON1 ICON DISCARDABLE     "saucer.ico"
+
+
+//IDB_BITMAP1             BITMAP  DISCARDABLE     "bmp.bmp"
+IDB_SAUCER              BITMAP  DISCARDABLE     "saucer.bmp"
+IDB_OBSTACLE              BITMAP  DISCARDABLE     "obstacle.bmp"
+
+
+IDW_LASER	        WAVE  DISCARDABLE     "skyrocket-01.wav"
+IDW_EXPLOSION	        WAVE  DISCARDABLE     "explosion-01.wav"
+IDW_ROAR                WAVE  DISCARDABLE     "lion-01.wav"
+
+// User
+IDB_BACKGROUND          BITMAP  DISCARDABLE     "background.bmp"
+IDB_MONSTER              BITMAP  DISCARDABLE     "monster.bmp"
+
+IDB_BACKGROUND2          BITMAP  DISCARDABLE     "background2.bmp"
+IDB_MONSTER2              BITMAP  DISCARDABLE     "monster2.bmp"
+
+IDB_BACKGROUND_SQAJ          BITMAP  DISCARDABLE     "sqaj_bkg.bmp"
+IDB_MONSTER_SQAJ	BITMAP  DISCARDABLE     "sqaj.bmp"
+
+IDB_BACKGROUND_ZQAJ          BITMAP  DISCARDABLE     "zqaj_bkg.bmp"
+IDB_MONSTER_ZQAJ	BITMAP  DISCARDABLE     "zqaj.bmp"
+
+IDB_BACKGROUND_ZQX          BITMAP  DISCARDABLE     "zqx_bkg.bmp"
+IDB_MONSTER_ZQX		BITMAP  DISCARDABLE     "zqx.bmp"
+
+IDB_BACKGROUND_SPAJ          BITMAP  DISCARDABLE     "spaj_bkg.bmp"
+IDB_MONSTER_SPAJ		BITMAP  DISCARDABLE     "spaj.bmp"
+
+IDB_BACKGROUND_DOVOLENKY          BITMAP  DISCARDABLE     "dovolenky_bkg.bmp"
+IDB_MONSTER_DOVOLENKY		BITMAP  DISCARDABLE     "dovolenky.bmp"
+
+IDB_BACKGROUND_SANTALENKY          BITMAP  DISCARDABLE     "santalenky_bkg.bmp"
+IDB_MONSTER_SANTALENKY		BITMAP  DISCARDABLE     "santalenky.bmp"
+
+IDB_BACKGROUND_FEROR          BITMAP  DISCARDABLE     "feror_bkg.bmp"
+IDB_MONSTER_FEROR		BITMAP  DISCARDABLE     "feror.bmp"
+
+
+IDB_BACKGROUND_ELFRAZZOO          BITMAP  DISCARDABLE     "elfrazzoo_bkg.bmp"
+IDB_MONSTER_ELFRAZZOO		BITMAP  DISCARDABLE     "elfrazzoo.bmp"
+
+IDB_BACKGROUND_GENERIC		BITMAP  DISCARDABLE     "generic_bkg.bmp"
+IDB_MONSTER_GENERIC		BITMAP  DISCARDABLE     "generic.bmp"
+
+
+IDB_BACKGROUND_lemmycopa          BITMAP  DISCARDABLE     "lemmycopa_bkg.bmp"
+IDB_MONSTER_lemmycopa          BITMAP  DISCARDABLE     "lemmycopa.bmp"
+
+IDB_BACKGROUND_pezel          BITMAP  DISCARDABLE     "pezel_bkg.bmp"
+IDB_MONSTER_pezel          BITMAP  DISCARDABLE     "pezel.bmp"
+
+
+IDB_BACKGROUND_rosa          BITMAP  DISCARDABLE     "rosa_bkg.bmp"
+IDB_MONSTER_rosa          BITMAP  DISCARDABLE     "rosa.bmp"
+
+
+//IDB_BACKGROUND_drebylus          BITMAP  DISCARDABLE     "drebylus_bkg.bmp"
+//IDB_MONSTER_drebylus          BITMAP  DISCARDABLE     "drebylus.bmp"
+IDB_BACKGROUND_egiptas          BITMAP  DISCARDABLE     "egiptas_bkg.bmp"
+IDB_MONSTER_egiptas          BITMAP  DISCARDABLE     "egiptas.bmp"
+IDB_BACKGROUND_rhedeg          BITMAP  DISCARDABLE     "rhedeg_bkg.bmp"
+IDB_MONSTER_rhedeg          BITMAP  DISCARDABLE     "rhedeg.bmp"
+IDB_BACKGROUND_nerfol          BITMAP  DISCARDABLE     "nerfol_bkg.bmp"
+IDB_MONSTER_nerfol          BITMAP  DISCARDABLE     "nerfol.bmp"
+
+IDB_BACKGROUND_CLOSINGCREDITS	BITMAP  DISCARDABLE     "closingcredits_bkg.bmp"
+
+
+IDB_BACKGROUND_portalix          BITMAP  DISCARDABLE     "portalix_bkg.bmp"
+IDB_MONSTER_portalix          BITMAP  DISCARDABLE     "portalix.bmp"
+IDB_BACKGROUND_orbitalix          BITMAP  DISCARDABLE     "orbitalix_bkg.bmp"
+IDB_MONSTER_orbitalix          BITMAP  DISCARDABLE     "orbitalix.bmp"
+
+
+IDB_BACKGROUND_igycoopa           BITMAP  DISCARDABLE     "igycoopa_bkg.bmp"
+IDB_MONSTER_igycoopa          BITMAP  DISCARDABLE     "igycoopa.bmp"
+
+
+IDB_BACKGROUND_FURHAX          BITMAP  DISCARDABLE     "furhax_bkg.bmp"
+IDB_MONSTER_FURHAX          BITMAP  DISCARDABLE     "furhax.bmp"
+
+IDB_BACKGROUND_LADDOADS          BITMAP  DISCARDABLE     "laddoads_bkg.bmp"
+IDB_MONSTER_LADDOADS          BITMAP  DISCARDABLE     "laddoads.bmp"
+
+IDB_BACKGROUND_MJAU          BITMAP  DISCARDABLE     "mjau_bkg.bmp"
+IDB_MONSTER_MJAU          BITMAP  DISCARDABLE     "mjau.bmp"
+IDB_BACKGROUND_SIFFROX          BITMAP  DISCARDABLE     "siffrox_bkg.bmp"
+IDB_MONSTER_SIFFROX          BITMAP  DISCARDABLE     "siffrox.bmp"
+
+IDB_BACKGROUND_RHOX          BITMAP  DISCARDABLE     "rhox_bkg.bmp"
+IDB_MONSTER_RHOX          BITMAP  DISCARDABLE     "rhox.bmp"
+
+
+IDB_BACKGROUND_MAJORZERO          BITMAP  DISCARDABLE     "majorzero_bkg.bmp"
+IDB_MONSTER_MAJORZERO          BITMAP  DISCARDABLE     "majorzero.bmp"
+
